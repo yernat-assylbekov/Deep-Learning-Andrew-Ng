@@ -1,5 +1,5 @@
 # Coursera: Deep Learning Specialization by Andrew Ng
-Solutions for programming assigments of Deep Learning Specialization by Andrew Ng in Coursera
+Solutions for programming assigments of Deep Learning Specialization by Andrew Ng in Coursera.
 
 ### Course 1: Neural Networks and Deep Learning.
 • Week 1: Introduction to Deep Learning.<br>
