@@ -1,11 +1,10 @@
 # Coursera: Deep Learning Specialization by Andrew Ng
 Solutions for programming assigments of Deep Learning Specialization by Andrew Ng in Coursera
 
-Course 1: Neural Networks and Deep Learning.
-
-          Week 1: No programming assigment.
-          
-          Week 2:
+Course 1: Neural Networks and Deep Learning.<br>
+• Week 1: No programming assigment.<br>
+• Week 2:<br>
+• Week 3:
 
 Course 2: Improving Deep Neural Networks.
 
